@@ -1,5 +1,8 @@
 # Module-1-Challenge
 Excel-Challenge
-This folder contains the Excel and Word files to be submitted for the Module 1 Challenge. Lead instructor, Travis Hopkins, told the class to submit the documents on Git since there was a discrepency in the Module 1 instructions.
-Alternatively, the following link leads to copies of the files in Google Drive as well:
-https://drive.google.com/drive/folders/1t07Ksdo_HK96TRZc51qVyqkZIIgXh0E-?usp=share_link
+For this project, I've taken crowdfunding data to create a coherent spreadsheet and analysis.
+
+![1](https://github.com/hdkronke/excel-project/assets/117773492/46b651aa-b6f3-4c91-9b56-c56c3b0208fb)
+
+I was able to categorize the information, adding colors and style to make the data more appealing.
+
