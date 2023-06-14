@@ -1,6 +1,6 @@
 # Excel Challenge
 ## Module 1
-For this project, I've taken crowdfunding data to create a coherent spreadsheet and analysis.
+For this project, I've taken crowdfunding data to create a coherent spreadsheet and analysis with Microsoft Excel.
 
 ![1](https://github.com/hdkronke/excel-project/assets/117773492/46b651aa-b6f3-4c91-9b56-c56c3b0208fb)
 
