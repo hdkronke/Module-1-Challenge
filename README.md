@@ -10,3 +10,7 @@ Several visualizations were also created to present the information to viewers o
 
 ![2](https://github.com/hdkronke/excel-project/assets/117773492/e913c912-acd1-4344-b6ff-db47a945ca7c)
 ![4](https://github.com/hdkronke/excel-project/assets/117773492/2ad8db37-a283-4a9a-812f-349a783f1afd)
+
+I wrote a few shot analysis pieces to summarize the data!
+
+![3](https://github.com/hdkronke/excel-project/assets/117773492/40d59414-30c0-4956-ace2-09978220d0f1)
